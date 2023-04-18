@@ -64,3 +64,10 @@ article {
 p {
     font-size: 2.5em;
 }
+
+footer {
+    top: 0;
+    background-color: #FAF0CA;
+    height: 800px;
+    margin-top: 50px;
+}
