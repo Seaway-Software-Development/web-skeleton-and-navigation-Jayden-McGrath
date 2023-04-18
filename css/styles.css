@@ -39,21 +39,23 @@ header {
     top: 0;
     background-color: #FAF0CA;
     height: 800px;
-    font-size: 2.5em;
     font-family: 'Times New Roman', Times, serif;
+}
+
+header blockquote {
+    font-size: 2.5em;
 }
     
 blockquote {
     
 }
 
-main {
-    background-color: #0D3B66;
-}
+
 
 .container {
     width: 80%;
     text-align: center;
+    background-color: #FAF0CA;
 }
 
 article {
