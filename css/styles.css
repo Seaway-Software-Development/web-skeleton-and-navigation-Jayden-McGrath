@@ -39,6 +39,8 @@ header {
     top: 0;
     background-color: #FAF0CA;
     height: 800px;
+    font-size: 2.5em;
+    font-family: 'Times New Roman', Times, serif;
 }
     
 blockquote {
