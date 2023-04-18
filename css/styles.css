@@ -37,10 +37,30 @@ nav a:hover {
     
 header {
     top: 0;
-    background-color: #0D3B66;
-    height: 190px;
+    background-color: #FAF0CA;
+    height: 800px;
 }
     
 blockquote {
     
+}
+
+main {
+    background-color: #0D3B66;
+}
+
+.container {
+    width: 80%;
+    text-align: center;
+}
+
+article {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+p {
+    font-size: 2.5em;
 }
