@@ -158,5 +158,8 @@ form #submit {
     padding: 0.5em;
   }
      
+  float {
+    clear: both;
+  }
 
     
