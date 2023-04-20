@@ -76,6 +76,7 @@ footer {
     background-color: #FAF0CA;
     height: 800px;
     margin-top: 50px;
+    clear: both;
 }
 
 .button {
@@ -158,9 +159,7 @@ form #submit {
     padding: 0.5em;
   }
      
-  float {
-    clear: both;
-  }
+  
 
     
 
